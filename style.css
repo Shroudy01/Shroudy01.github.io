@@ -1,0 +1,37 @@
+
+
+.foto {
+    height: 650px;
+    width: 450px;
+}
+
+#kel{
+    color: crimson;
+}
+.servis:hover{
+    transition: 0.5s;
+    background: beige;
+    transform: scale(1.05);
+}
+
+.serviss:hover {
+    transition: 0.5s;
+    background: azure;
+    transform: scale(1.05);
+}
+
+#zaky{
+    background-color: azure;
+}
+
+#dian{
+    background-color: azure;
+}
+
+#fajar{
+    background-color: beige;
+}
+
+#fahmi {
+    background-color: beige;
+}
